@@ -1,11 +1,11 @@
-# wpp-to-unknown
-Little js script so you send a direct whatsapp message to a phone number copied to your clipboard.
+# Send whatsapp message to any number
+Little *MacOS Automator App* & *js script* so you can send a direct whatsapp message to a phone number copied to your clipboard.
 
-## Tutorial
+## Installation
 
 ### Downloading app
-1. Donwload the app from the code
-2. Use it/Done!
+1. Donwload `WPP to Unknow.app` from the repository
+2. Use it!
 
 ### Copying the code
 1. Create a MacOS Automator App
