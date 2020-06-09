@@ -2,6 +2,12 @@
 Little js script so you send a direct whatsapp message to a phone number copied to your clipboard.
 
 ## Tutorial
+
+### Downloading app
+1. Donwload the app from the code
+2. Use it/Done!
+
+### Copying the code
 1. Create a MacOS Automator App
 2. Add a **Get Contents of Clipboard** variable
 3. Add a **Run Javascript** node
