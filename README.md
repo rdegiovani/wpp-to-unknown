@@ -25,3 +25,9 @@ The phone number format is **CCYYNNNNNNNNN** where
 - NNNNNNNNN = Phonenumber (9 digits)
 
 The country code is set by `var contryCode`
+
+## Roadmap
+- **Number auth:** Check if the number is the correct lenght. If not, display a warning, with option to correct it.
+- **Location Identification:** An interface, displayed on first use, that collects your country code and area code, to add when not present. Area code insertion should display a warning to the user, since it's a more case dependent situation.
+- **Interface:** An interface, accessible by some action from the user, where you can access and change country code, area code and future features.
+- **Message Automator:** The user inputs a set of phone number, adds a text, and the app sends the text message to all the phone numbers.
